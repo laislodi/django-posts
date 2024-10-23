@@ -1,0 +1,4 @@
+.vscode/
+.idea/
+
+django_posts/.my_pgpass
