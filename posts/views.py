@@ -1,4 +1,3 @@
-# from django.shortcuts import 
 from rest_framework import generics
 
 from .models import Post, Customer

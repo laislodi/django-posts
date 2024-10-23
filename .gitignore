@@ -2,3 +2,5 @@
 .idea/
 
 django_posts/.my_pgpass
+
+.env
